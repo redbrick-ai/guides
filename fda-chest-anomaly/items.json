@@ -1,0 +1,362 @@
+[
+  {
+    "name": "No finding_005be26a68485912e007a3703f43d60a",
+    "series": [
+      {
+        "items": "data/005be26a68485912e007a3703f43d60a.dicom"
+      }
+    ],
+    "priority": 0.16977896394810388,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_00176f7e1b1cb835123f95960b9a9efd",
+    "series": [
+      {
+        "items": "data/00176f7e1b1cb835123f95960b9a9efd.dicom"
+      }
+    ],
+    "priority": 0.7743455045286998,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "Pulmonary fibrosis_0007d316f756b3fa0baea2ff514ce945",
+    "series": [
+      {
+        "items": "data/0007d316f756b3fa0baea2ff514ce945.dicom",
+        "boundingBoxes": [
+          {
+            "pointTopLeft": {
+              "xNorm": 0.6041666666666666,
+              "yNorm": 0.24375
+            },
+            "hNorm": 0.0546875,
+            "wNorm": 0.030555555555555555,
+            "category": "Pulmonary fibrosis"
+          }
+        ]
+      }
+    ],
+    "priority": 0.2515116513538179,
+    "classification": {
+      "attributes": {
+        "Finding": true
+      }
+    }
+  },
+  {
+    "name": "No finding_004dc2a50591fb5f1aaf012bffa95fd9",
+    "series": [
+      {
+        "items": "data/004dc2a50591fb5f1aaf012bffa95fd9.dicom"
+      }
+    ],
+    "priority": 0.9438934095882429,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_00053190460d56c53cc3e57321387478",
+    "series": [
+      {
+        "items": "data/00053190460d56c53cc3e57321387478.dicom"
+      }
+    ],
+    "priority": 0.1406444719611838,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "Pulmonary fibrosis_001d127bad87592efe45a5c7678f8b8d",
+    "series": [
+      {
+        "items": "data/001d127bad87592efe45a5c7678f8b8d.dicom",
+        "boundingBoxes": [
+          {
+            "pointTopLeft": {
+              "xNorm": 0.6647135416666666,
+              "yNorm": 0.20540364583333334
+            },
+            "hNorm": 0.0595703125,
+            "wNorm": 0.1259765625,
+            "category": "Pulmonary fibrosis"
+          }
+        ]
+      }
+    ],
+    "priority": 0.7043495415776198,
+    "classification": {
+      "attributes": {
+        "Finding": true
+      }
+    }
+  },
+  {
+    "name": "No finding_003cfe5ce5c0ec5163138eb3b740e328",
+    "series": [
+      {
+        "items": "data/003cfe5ce5c0ec5163138eb3b740e328.dicom"
+      }
+    ],
+    "priority": 0.007509321957389958,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "Pleural thickening_00150343289f317a0ad5629d5b7d9ef9",
+    "series": [
+      {
+        "items": "data/00150343289f317a0ad5629d5b7d9ef9.dicom",
+        "boundingBoxes": [
+          {
+            "pointTopLeft": {
+              "xNorm": 0.1005940594059406,
+              "yNorm": 0.5027910685805422
+            },
+            "hNorm": 0.05861386138613861,
+            "wNorm": 0.0689792663476874,
+            "category": "Pleural thickening"
+          }
+        ]
+      }
+    ],
+    "priority": 0.7526848547926451,
+    "classification": {
+      "attributes": {
+        "Finding": true
+      }
+    }
+  },
+  {
+    "name": "No finding_005d70155f949c7785671800f2c8e1ca",
+    "series": [
+      {
+        "items": "data/005d70155f949c7785671800f2c8e1ca.dicom"
+      }
+    ],
+    "priority": 0.9143107762934389,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_000434271f63a053c4128a0ba6352c7f",
+    "series": [
+      {
+        "items": "data/000434271f63a053c4128a0ba6352c7f.dicom"
+      }
+    ],
+    "priority": 0.8507807621039857,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "Other lesion_000d68e42b71d3eac10ccc077aba07c1",
+    "series": [
+      {
+        "items": "data/000d68e42b71d3eac10ccc077aba07c1.dicom",
+        "boundingBoxes": [
+          {
+            "pointTopLeft": {
+              "xNorm": 0.018663194444444444,
+              "yNorm": 0.0
+            },
+            "hNorm": 0.3641493055555556,
+            "wNorm": 0.4982638888888889,
+            "category": "Other lesion"
+          }
+        ]
+      }
+    ],
+    "priority": 0.7728194060040272,
+    "classification": {
+      "attributes": {
+        "Finding": true
+      }
+    }
+  },
+  {
+    "name": "No finding_00291f7aff0123ea76a59998effef229",
+    "series": [
+      {
+        "items": "data/00291f7aff0123ea76a59998effef229.dicom"
+      }
+    ],
+    "priority": 0.08833589847988221,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_00575e3846ebd05a909d97ba59c53d30",
+    "series": [
+      {
+        "items": "data/00575e3846ebd05a909d97ba59c53d30.dicom"
+      }
+    ],
+    "priority": 0.2213952110800128,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_0021df30f3fddef551eb3df4354b1d06",
+    "series": [
+      {
+        "items": "data/0021df30f3fddef551eb3df4354b1d06.dicom"
+      }
+    ],
+    "priority": 0.24538073470320554,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "Aortic enlargement_0046f681f078851293c4e710c4466058",
+    "series": [
+      {
+        "items": "data/0046f681f078851293c4e710c4466058.dicom",
+        "boundingBoxes": [
+          {
+            "pointTopLeft": {
+              "xNorm": 0.4444444444444444,
+              "yNorm": 0.23645833333333333
+            },
+            "hNorm": 0.1467013888888889,
+            "wNorm": 0.1,
+            "category": "Aortic enlargement"
+          }
+        ]
+      }
+    ],
+    "priority": 0.24456551214115574,
+    "classification": {
+      "attributes": {
+        "Finding": true
+      }
+    }
+  },
+  {
+    "name": "No finding_000ae00eb3942d27e0b97903dd563a6e",
+    "series": [
+      {
+        "items": "data/000ae00eb3942d27e0b97903dd563a6e.dicom"
+      }
+    ],
+    "priority": 0.5024275829736906,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_004d2bc2111d639f5e8441ced52d55cb",
+    "series": [
+      {
+        "items": "data/004d2bc2111d639f5e8441ced52d55cb.dicom"
+      }
+    ],
+    "priority": 0.3261041866037703,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_0032c6091dc8f1b1245fc2f5f45458fa",
+    "series": [
+      {
+        "items": "data/0032c6091dc8f1b1245fc2f5f45458fa.dicom"
+      }
+    ],
+    "priority": 0.15046700279351832,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_0059d21bef1793fa9522e4ec8cae1a1a",
+    "series": [
+      {
+        "items": "data/0059d21bef1793fa9522e4ec8cae1a1a.dicom"
+      }
+    ],
+    "priority": 0.37384059132007696,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "No finding_0006e0a85696f6bb578e84fafa9a5607",
+    "series": [
+      {
+        "items": "data/0006e0a85696f6bb578e84fafa9a5607.dicom"
+      }
+    ],
+    "priority": 0.31829860539695576,
+    "classification": {
+      "attributes": {
+        "Finding": false
+      }
+    }
+  },
+  {
+    "name": "Lung Opacity_0005e8e3701dfb1dd93d53e2ff537b6e",
+    "series": [
+      {
+        "items": "data/0005e8e3701dfb1dd93d53e2ff537b6e.dicom",
+        "boundingBoxes": [
+          {
+            "pointTopLeft": {
+              "xNorm": 0.29296875,
+              "yNorm": 0.19108072916666666
+            },
+            "hNorm": 0.09928385416666667,
+            "wNorm": 0.09798177083333333,
+            "category": "Lung Opacity"
+          }
+        ]
+      }
+    ],
+    "priority": 0.7834780772988761,
+    "classification": {
+      "attributes": {
+        "Finding": true
+      }
+    }
+  }
+]
